@@ -1,0 +1,13 @@
+.card{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 3rem;
+    align-items: center;
+    justify-content: center;
+     cursor:pointer;
+     padding-top: 2rem;
+    padding-bottom: 2rem;   
+}
+.card :hover{
+    opacity:.9
+}
